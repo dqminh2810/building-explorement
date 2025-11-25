@@ -1,6 +1,25 @@
 # React-Native-Expo-News-App
-Cryptocurrency news app in react native expo. Projects for native beginners
+Cryptocurrency news app in react native expo
 
-[Full Documentation of the code is here](https://ninza7.medium.com/cryptocurrency-news-app-using-react-native-expo-and-newsapi-c3f96ca3be20)
+[Instruction](https://docs.google.com/document/d/1UlC-JZYy59-j5FhKuVNr4nS1mcSiZqMI7GX99vuH_8Y/edit?tab=t.0)
 
-[Video Tutorial](https://youtu.be/yUEXP2ED2zg)
+
+`npm install`
+
+`npm install -g eas-cli`
+
+- Go to https://expo.dev to create a free account
+
+- Run this in your terminal: 
+
+`eas login`
+
+- Run this in your terminal: 
+
+`eas init`
+
+- Run build for ios/android 
+
+`eas build --platform ios --profile development`
+
+`eas build --platform android --profile development`
